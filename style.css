@@ -1,0 +1,76 @@
+.body{
+    margin: 0px;
+    padding:0px;
+}
+.container{
+    padding: 50px;
+}
+.container-1{
+    text-align: center;
+  
+    
+}
+
+.section-1{
+    background-color: black;
+    color: whitesmoke;
+    text-align: center;
+    display: block;
+   
+    
+    
+    
+}
+.section-2,.section-3,.section-4{
+    display: inline-block;
+    width: 200px;
+    vertical-align: top;
+    border: solid black 5px;
+    margin-left:10px;
+    
+}
+ .section-5{
+    background-color: black;
+    color: aliceblue;
+    margin-top: -10px;
+    padding-top: -20px;
+    
+ }
+ 
+ .section-2__button,.section-3__button,.section-4__button
+ {
+     background-color: black;
+     color: azure;
+     margin-bottom: 10px;
+ }
+ .section-2__button:hover {
+    border:solid red 3px;
+ }
+    .section-3__button:hover {
+        border:solid red 3px;
+    }
+        .section-4__button:hover {
+            border:solid red 3px;
+ }
+ .section-5__button{
+    background-color: yellow;
+    display: inline-block;
+    width: 300px;
+    margin-bottom: 10px;
+ }
+ .robo{
+        margin-left: auto;
+        margin-right: auto;
+      
+ }
+ .section-1__desc{
+    margin-top: 5px;
+    padding-bottom: 5px;
+ }
+ .section-1__title {
+    margin-bottom: 5px; 
+  }
+
+  .section-5__title{
+    margin-bottom: 5px;
+  }
